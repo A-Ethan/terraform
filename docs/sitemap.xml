@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://a-ethan.github.io/license/</loc>
+    <loc>http://tf.stayai.cn/license/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://a-ethan.github.io/</loc>
+    <loc>http://tf.stayai.cn/</loc>
   </url>
   
   <url>
-    <loc>http://a-ethan.github.io/tags/</loc>
+    <loc>http://tf.stayai.cn/tags/</loc>
   </url>
   
   <url>
-    <loc>http://a-ethan.github.io/topics/</loc>
+    <loc>http://tf.stayai.cn/topics/</loc>
   </url>
   
 </urlset>
