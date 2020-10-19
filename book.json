@@ -12,7 +12,7 @@
     },
     "links": {
         "sidebar": {
-            "我的主页": "https://tf.stayai.cn"
+            "我的主页": "/"
         }
     },
     "plugins": [
